@@ -1,7 +1,7 @@
 # Network-3-layers
 
 Example of network layers for security and scalability.
-
+``` text
 ========================================================================
    LAYOUT DE REDE WAN / LAN (TOPOLOGIA LINEAR)
 ========================================================================
@@ -113,4 +113,4 @@ CAMADA 3  -   (Firewall / Roteador)
 | CPU     | Central Processing Unit                            	|
 | GHz     | Gigahertz                                          	|
 ========================================================================
-
+```
